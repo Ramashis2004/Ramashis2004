@@ -1,16 +1,49 @@
-## Hi there 👋
+## 👨‍💻 About Me
 
-<!--
-**Ramashis2004/Ramashis2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 **MERN Stack Developer Intern at National Informatics Centre (NIC)**
+- 🏛️ Working on **Government of Odisha digital initiatives**
+- 💻 Building and contributing to modern web applications
+- 🚀 Interested in Full Stack Development and scalable applications
+- 🤝 Open to freelance projects and collaboration
+- 🧠 Currently improving my DSA, backend development and system design
+- 📍 Bhubaneswar, Odisha, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏛️ Government Projects
+
+### 📋 PRS Amikshya
+
+A Government of Odisha digital platform.
+
+🔗 **Live Website:**  
+https://prsamikshya.odisha.gov.in/
+
+> Worked as part of my NIC internship on a government technology project.
+
+---
+
+### 💧 Jal Connect Odisha
+
+A Government of Odisha digital platform focused on water-related services/information.
+
+🔗 **Live Website:**  
+https://jalconnect.odisha.gov.in/
+
+> Worked as part of my NIC internship on a government technology project.
+
+---
+
+## 💼 Professional Experience
+
+### 🏛️ National Informatics Centre (NIC)
+
+**MERN Stack Developer Intern**
+
+📍 Odisha
+
+- Contributing to government web application development
+- Working with modern full-stack web technologies
+- Developing and integrating frontend and backend functionality
+- Working with REST APIs and databases
+- Participating in development of government digital platforms

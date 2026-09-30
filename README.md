@@ -19,7 +19,7 @@ A Government of Odisha digital platform.
 🔗 **Live Website:**  
 https://prsamikshya.odisha.gov.in/
 
-> Worked as part of my NIC internship on a government technology project.
+> Worked as part of my NIC team  on a government technology project.
 
 ---
 
@@ -30,7 +30,7 @@ A Government of Odisha digital platform focused on water-related services/inform
 🔗 **Live Website:**  
 https://jalconnect.odisha.gov.in/
 
-> Worked as part of my NIC internship on a government technology project.
+> Worked as part of NIC on a government technology project.
 
 ---
 

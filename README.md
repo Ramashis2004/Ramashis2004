@@ -12,7 +12,7 @@
 
 ## 🏛️ Government Projects
 
-### 📋 PRS Amikshya
+### 📋 PR Samikshya
 
 A Government of Odisha digital platform.
 
